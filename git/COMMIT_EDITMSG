@@ -1,0 +1,71 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   0index.html
+#	new file:   dwiki.css
+#	new file:   images/Amethyst-chipped.webp
+#	new file:   images/Amethyst-flawed.webp
+#	new file:   images/Amethyst-flawless.webp
+#	new file:   images/Amethyst-normal.webp
+#	new file:   images/Diamond-chipped.webp
+#	new file:   images/Diamond-flawed.webp
+#	new file:   images/Diamond-normal.webp
+#	new file:   images/Emerald-chipped.webp
+#	new file:   images/Emerald-flawed.webp
+#	new file:   images/Emerald-flawless.webp
+#	new file:   images/Emerald-normal.webp
+#	new file:   images/R-amn.webp
+#	new file:   images/R-ber.webp
+#	new file:   images/R-cham.webp
+#	new file:   images/R-dol.webp
+#	new file:   images/R-el.webp
+#	new file:   images/R-eld.webp
+#	new file:   images/R-eth.webp
+#	new file:   images/R-fal.webp
+#	new file:   images/R-gul.webp
+#	new file:   images/R-hel.webp
+#	new file:   images/R-io_po.webp
+#	new file:   images/R-ist.webp
+#	new file:   images/R-ith.webp
+#	new file:   images/R-jo.webp
+#	new file:   images/R-ko.webp
+#	new file:   images/R-lem.webp
+#	new file:   images/R-lo.webp
+#	new file:   images/R-lum.webp
+#	new file:   images/R-mal.webp
+#	new file:   images/R-nef.webp
+#	new file:   images/R-ohm.webp
+#	new file:   images/R-ort.webp
+#	new file:   images/R-pul.webp
+#	new file:   images/R-ral.webp
+#	new file:   images/R-shae.webp
+#	new file:   images/R-sol.webp
+#	new file:   images/R-sur.webp
+#	new file:   images/R-tal.webp
+#	new file:   images/R-thul.webp
+#	new file:   images/R-tir.webp
+#	new file:   images/R-um.webp
+#	new file:   images/R-vex.webp
+#	new file:   images/R-zod.webp
+#	new file:   images/Ruby-chipped.webp
+#	new file:   images/Ruby-flawed.webp
+#	new file:   images/Ruby-flawless.webp
+#	new file:   images/Ruby-normal.webp
+#	new file:   images/Sapphire-chipped.webp
+#	new file:   images/Sapphire-flawed.webp
+#	new file:   images/Sapphire-flawless.webp
+#	new file:   images/Sapphire-normal.webp
+#	new file:   images/Topaz-chipped.webp
+#	new file:   images/Topaz-flawed.webp
+#	new file:   images/Topaz-flawless.webp
+#	new file:   images/Topaz-normal.webp
+#	new file:   index.html
+#	new file:   javas.js
+#	new file:   styles.css
+#
