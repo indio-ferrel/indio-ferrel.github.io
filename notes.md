@@ -7,6 +7,6 @@ VS Code:
 
 single quotes JS, double quotes HTML.
 
-cd ~ is likely to take you to /c/Users/[username] on Windows.
-cd .. up one
-cd - back one
+cd ~ is likely to take you to /c/Users/[username] on Windows  
+cd .. up one  
+cd - back one  
